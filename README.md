@@ -10,4 +10,3 @@
 
 Code by Google Chrome #6817, contact him if you have problem
 
-Full Video Turoial --> https://www.youtube.com/watch?v=AGRF25NZw3s&t=594s
